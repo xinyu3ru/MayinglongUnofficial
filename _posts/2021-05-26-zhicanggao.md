@@ -3,6 +3,7 @@ title: 马应龙麝香痔疮膏
 tags: 
 - 马应龙
 - 痔疮膏
+- 医药
 categories:
 - 产品
 
